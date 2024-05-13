@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/ALL_FramesEscenes.unity
-    guid: 4425cc546d4574345abaf2d9a10ee8bd
-  - enabled: 1
-    path: Assets/Scenes/Ejd.unity
-    guid: 69f31a53251e21e45aefe2bc899f9d71
+    path: Assets/Vista/Recursos Unity/Scenes/ALL_FramesEscenes.unity
+    guid: cea50e368639fd547b09cbf21ed9fb45
   m_configObjects:
     com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000,
       guid: c50a82cf221092840929354d47037ee7, type: 2}
